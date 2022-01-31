@@ -1,7 +1,7 @@
 # FoodieBaba
 | Project | Link |
 | ------ | ------ |
-| Website | https://muskan40.github.io/FoodieBaba/
+| Website | https://muskan40.github.io/FoodieBaba/|
 #`Screenshot`
 
 ![s1](https://user-images.githubusercontent.com/67264445/151878300-8ecab72d-7a35-48b3-b467-b8e46e5e5426.jpeg)
